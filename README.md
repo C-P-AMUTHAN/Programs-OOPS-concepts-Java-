@@ -15,4 +15,4 @@ This repository contains Java programs that demonstrate essential Object-Oriente
 To run these programs locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/C-P-AMUTHAN/Programs-OOPS-concepts-Java-.git
